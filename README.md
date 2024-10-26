@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/icons/icon-144.png?sanitize=true" width="80">
+  <img src="/icons/icon-192x192.png?sanitize=true" width="192">
   <h1 align="center">SoundBoardio plugin: Pulp Fiction</h1>
 </p>
 
@@ -24,7 +24,7 @@ If you want to help us, please consider [making a donation](https://github.com/s
 
 ## License
 
-Copyright &copy; 2021 [AquaSoup](http://aquasoup.com)
+Copyright &copy; 2024 [AquaSoup](http://aquasoup.com)
 
 Proudly powered by nature 🗻, wind 💨, tea 🍵 and beer 🍺 ;)
 
