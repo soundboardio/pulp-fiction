@@ -10,7 +10,7 @@
   "color": "#943100",
   "rootUrl": "sounds/",
   "author": {
-    "name": "SoundBoardio",
+    "name": "AquaSoup",
     "url": "https://aquasoup.com"
   },
   "lang": "en",
@@ -30,100 +30,110 @@
   ],
   "tiles": [
     {
-      "name": "Askinu",
-      "filename": "askinu.mp3"
+      "name": "Yes!",
+      "filename": "yes.mp3"
     },
     {
-      "name": "Bigkahb",
-      "filename": "bigkahb.mp3"
-    },
-    {
-      "name": "Correct",
-      "filename": "correct.mp3"
-    },
-    {
-      "name": "Countryfrom (1)",
-      "filename": "countryfrom (1).mp3"
-    },
-    {
-      "name": "Countryfrom 2",
-      "filename": "countryfrom-2.mp3"
-    },
-    {
-      "name": "Countryfrom 3",
-      "filename": "countryfrom-3.mp3"
-    },
-    {
-      "name": "Countryfrom",
-      "filename": "countryfrom.mp3"
-    },
-    {
-      "name": "Engspeak",
-      "filename": "engspeak.mp3"
-    },
-    {
-      "name": "Ezk2517 2",
-      "filename": "ezk2517-2.mp3"
-    },
-    {
-      "name": "Ezk2517 8",
-      "filename": "ezk2517-8.mp3"
-    },
-    {
-      "name": "Howdoin",
-      "filename": "howdoin.mp3"
-    },
-    {
-      "name": "Marclook 3",
-      "filename": "marclook-3.mp3"
-    },
-    {
-      "name": "Marclook 4",
-      "filename": "marclook-4.mp3"
-    },
-    {
-      "name": "Matter",
-      "filename": "matter.mp3"
-    },
-    {
-      "name": "Mushroom",
-      "filename": "mushroom.mp3"
-    },
-    {
-      "name": "Nervous 2",
-      "filename": "nervous-2.mp3"
-    },
-    {
-      "name": "Nono",
+      "name": "No no no",
       "filename": "nono.mp3"
     },
     {
-      "name": "Sayin 2",
+      "name": "Finished",
       "filename": "sayin-2.mp3"
     },
     {
-      "name": "Saywhat",
-      "filename": "saywhat.mp3"
-    },
-    {
-      "name": "Stfu",
+      "name": "STFU",
       "filename": "stfu.mp3"
     },
     {
-      "name": "Stfufat 2",
-      "filename": "stfufat-2.mp3"
-    },
-    {
-      "name": "Stfufat",
+      "name": "STFU, fat man",
       "filename": "stfufat.mp3"
     },
     {
-      "name": "Tastyb",
+      "name": "Correct!",
+      "filename": "correct.mp3"
+    },
+    {
+      "name": "What's the matter?",
+      "filename": "matter.mp3"
+    },
+    {
+      "name": "What country you from?",
+      "filename": "countryfrom.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "What ain't no country",
+      "filename": "countryfrom-2.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "You speak English in What?",
+      "filename": "countryfrom-3.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "English mother-fucker",
+      "filename": "engspeak.mp3",
+      "tags": [
+        "Country"
+      ]
+    },
+    {
+      "name": "Righteous man",
+      "filename": "ezk2517-2.mp3",
+      "tags": [
+        "Ezekiel"
+      ]
+    },
+    {
+      "name": "I lay my vengeance upon you",
+      "filename": "ezk2517-8.mp3",
+      "tags": [
+        "Ezekiel"
+      ]
+    },
+    {
+      "name": "Asking you a goddam think",
+      "filename": "askinu.mp3"
+    },
+    {
+      "name": "Big Kahuna Burger",
+      "filename": "bigkahb.mp3"
+    },
+    {
+      "name": "Tasty burger",
       "filename": "tastyb.mp3"
     },
     {
-      "name": "Yes",
-      "filename": "yes.mp3"
+      "name": "How you doin' baby?",
+      "filename": "howdoin.mp3"
+    },
+    {
+      "name": "Does he look like a bitch?",
+      "filename": "marclook-3.mp3"
+    },
+    {
+      "name": "Does he look like a bitch??",
+      "filename": "marclook-4.mp3"
+    },
+    {
+      "name": "I'm a mushroom-cloud-layin'",
+      "filename": "mushroom.mp3"
+    },
+    {
+      "name": "Nervous",
+      "filename": "nervous-2.mp3"
+    },
+    {
+      "name": "Say what again!",
+      "filename": "saywhat.mp3"
     }
   ],
   "references": [
