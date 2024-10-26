@@ -1,0 +1,144 @@
+{
+  "name": "Pulp Fiction",
+  "shortName": "pulp-fiction",
+  "description": "Does he look like a bitch?",
+  "story": [
+    "Pulp Fiction is a 1994 film directed by Quentin Tarantino, known for its nonlinear storytelling and stylized violence.",
+    "The movie weaves together several interconnected stories involving gangsters, hitmen, and other morally complex characters, set against a darkly comedic backdrop.",
+    "Its iconic dialogue, memorable scenes, and eclectic soundtrack have cemented it as a classic in modern cinema and a defining work of Tarantino's career."
+  ],
+  "color": "#943100",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "SoundBoardio",
+    "url": "https://aquasoup.com"
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Askinu",
+      "filename": "askinu.mp3"
+    },
+    {
+      "name": "Bigkahb",
+      "filename": "bigkahb.mp3"
+    },
+    {
+      "name": "Correct",
+      "filename": "correct.mp3"
+    },
+    {
+      "name": "Countryfrom (1)",
+      "filename": "countryfrom (1).mp3"
+    },
+    {
+      "name": "Countryfrom 2",
+      "filename": "countryfrom-2.mp3"
+    },
+    {
+      "name": "Countryfrom 3",
+      "filename": "countryfrom-3.mp3"
+    },
+    {
+      "name": "Countryfrom",
+      "filename": "countryfrom.mp3"
+    },
+    {
+      "name": "Engspeak",
+      "filename": "engspeak.mp3"
+    },
+    {
+      "name": "Ezk2517 2",
+      "filename": "ezk2517-2.mp3"
+    },
+    {
+      "name": "Ezk2517 8",
+      "filename": "ezk2517-8.mp3"
+    },
+    {
+      "name": "Howdoin",
+      "filename": "howdoin.mp3"
+    },
+    {
+      "name": "Marclook 3",
+      "filename": "marclook-3.mp3"
+    },
+    {
+      "name": "Marclook 4",
+      "filename": "marclook-4.mp3"
+    },
+    {
+      "name": "Matter",
+      "filename": "matter.mp3"
+    },
+    {
+      "name": "Mushroom",
+      "filename": "mushroom.mp3"
+    },
+    {
+      "name": "Nervous 2",
+      "filename": "nervous-2.mp3"
+    },
+    {
+      "name": "Nono",
+      "filename": "nono.mp3"
+    },
+    {
+      "name": "Sayin 2",
+      "filename": "sayin-2.mp3"
+    },
+    {
+      "name": "Saywhat",
+      "filename": "saywhat.mp3"
+    },
+    {
+      "name": "Stfu",
+      "filename": "stfu.mp3"
+    },
+    {
+      "name": "Stfufat 2",
+      "filename": "stfufat-2.mp3"
+    },
+    {
+      "name": "Stfufat",
+      "filename": "stfufat.mp3"
+    },
+    {
+      "name": "Tastyb",
+      "filename": "tastyb.mp3"
+    },
+    {
+      "name": "Yes",
+      "filename": "yes.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Pulp Fiction",
+      "source": "IMDB",
+      "url": "https://www.imdb.com/title/tt0110912/"
+    }
+  ],
+  "lyrics": [
+    "You ever read the Bible, Brett?",
+    "There's a passage I got memorized, seems appropriate for this situation: Ezekiel 25:17.",
+    "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men.",
+    "Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children.",
+    "And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers.",
+    "And you will know my name is the Lord when I lay my vengeance upon you."
+  ]
+}
